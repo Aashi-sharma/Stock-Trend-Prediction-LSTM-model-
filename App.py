@@ -1,8 +1,8 @@
 # To run this file and streamlit web app simply
-# First Step - .\venv\Scripts\Activate (activate virtual environment)
+# First Step - (activate virtual environment/optional)
 # Second Step -  pip install streamlit (optional)
 # Third Step - streamlit run "c:\Users\Aashi Sharma\OneDrive\Desktop\Streamlit_project_stock_trend_prediction\App.py" (to run streamlit app)
-
+# Streamlit Web App code
 
 
 import numpy as np
